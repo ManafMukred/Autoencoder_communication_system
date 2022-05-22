@@ -40,6 +40,3 @@ By taking the approach of self-supervised learning of an end-to-end communicatio
 | Stability   | stable        | stable   | fluctuating        |  
 | Performance   | good        | Bad   | good        |  
 | Overall   | best        | bad   | ok        |  
-
-
-# Autoencoder_communication_system
